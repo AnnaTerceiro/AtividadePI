@@ -1,1 +1,2 @@
-# Atividade disciplina de Programação Imperativa da Universidade Federal de Sergipe com Python
+# Atividade da disciplina Programação Imperativa da Universidade Federal de Sergipe enquanto cursei Astrofísica - com Python
+Aprendendo a manipular 
